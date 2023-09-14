@@ -18,7 +18,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "df = pd.read_csv(r'D:\\\\AIO2023\\Weekly Exercise\\M02\\230712 - M02PT02 - Tabular Data Project - TA_Thai\\230712 - M02PT02 - Tabular Data Project - TA_Thai\\Fish.csv')"
+    "df = pd.read_csv('Fish.csv')"
    ]
   },
   {
